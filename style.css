@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 auto;
+background-color: #000000;
+}
+
+.one{
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+}
+
+.top{
+    width: 100%;
+    text-align: center;
+    
+}
+
+.top img{
+    text-align: center;
+}
+
+nav{
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    padding-top: 100px;   
+}
+
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+   float: left;
+    font-size: 20px;
+     margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+li{
+    float: left;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+}
+
+ul{
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    padding: 0;
+}
+
+a:hover{
+    color: #ffaed1;
+text-shadow: 0px 0px 30px rgba(255,174,209,1);
+}
+
+.second{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.second img{
+    width: 20%;
+    padding-top: 100px;
+}
+
+.second h1{
+    color: #ffffff;
+    text-shadow: 0px 0px 20px rgba(170,55,255,1);
+    text-align: center;
+    
+}
+
+#introduce , #skill ,#work ,#vision h1{
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+p
+{
+    text-align: center;
+    margin: 0 auto;
+    color: #ffffff;
+    width: 60%;;
+}
+
+.more a{
+    margin: 0 auto;
+    width: 100%;
+    color: #ffffff;
+    font-size: 25px;
+    border: 1px solid #ffffff;
+    padding: 20px;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+.more{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    margin-top:50px;
+}
+
+.two{
+    height: 100vh;
+}
+
+.three{
+    width: 80%;
+    margin: 0 auto;
+    height: 100vh;
+    text-align: center;
+}
+
+.left img{
+    width: 100%;
+}
+
+.center img{
+    width: 100%;
+}
+
+.right img{
+    width: 100%;
+}
+
+.left ,.center ,.right {
+    width: 33%;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.bun{
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+.therd{
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.morea a{
+    margin: 0 auto;
+    width: 100%;
+    color: #ffffff;
+    font-size: 25px;
+    border: 1px solid #ffffff;
+    padding: 20px;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+.fourth{
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+
+
+.image{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 15%;
+}
+
+.lit ,.jeremy ,.ninja{
+    text-align: center;
+    margin: 0 auto;
+    width: 33%;
+    float: left;
+}
+
+.fourth img{
+    height: 30vh;
+}
+
+.fifth{
+    width: 70%;
+    height: 100vh;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+h2{
+    padding-bottom: 5%;
+     letter-spacing: 0.2em
+}
+
+.bun_2{
+    width: 50%;
+    font-size: 120%;
+    letter-spacing: 0.2em;
+    float: left;
+    padding-top: 15%;
+        
+}
+
+.images_2{
+    width: 50%;
+    float: left;
+    padding-top: 15%;
+}
+
+.images_2 img{
+    width: 35%;
+    padding-left: 20%;
+}
+
+.sns{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.sns img{
+    width: 10%;
+     padding: 3%;
+}
